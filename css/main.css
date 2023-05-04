@@ -47,20 +47,16 @@ img {
     color:black;
 }
 
-.mobile-main-nav {
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    background-color: White;
-    position: absolute;
-    top: 132px;
-    left: 0;
-    right: 0;
-    color: grey;
-}
-
-.mobile-main-nav a {
-    padding: 8px;
+.nav a {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: none;
     text-decoration: none;
     color: black;
+    transition: all ease .25s;
+    border: solid;
+    border-width: 1px;
 }
+
