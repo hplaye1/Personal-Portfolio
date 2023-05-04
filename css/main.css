@@ -61,7 +61,7 @@ img {
 }
 
 .center-intro {
-    background: url(../img/background-landing-page.jpg);
+    background: url(../img/pastel-back.png);
     padding-top: 300px;
     padding-bottom: 100px;
     background-position: center;
@@ -72,7 +72,7 @@ img {
 }
 
 .h1-center-page {
-    color: white;
+    color: #120052;
     font-size: 5em;
     font-weight: 500;
     margin-left: auto;
