@@ -121,10 +121,7 @@ img {
     width: 32px;
 }
 
-img {
-    width: 100%;
-    height: auto;
-}
+
 
 .sr-only {
     position: absolute;
