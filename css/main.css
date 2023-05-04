@@ -1,1 +1,66 @@
-/* Place CSS styles here */
+body {
+    background-color: white;  
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    line-height: 2em;
+}
+
+.nav-wrapper {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    background-color: transparent;
+}
+
+.logo {
+    width: 80px;
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.nav {
+    display: none;
+    text-decoration: none;
+}
+
+.nav {
+    display: flex;
+    gap: 20px;
+    font-weight: 500;
+}
+
+.icon {
+    text-decoration: none;
+    color:black;
+}
+
+.mobile-main-nav {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    background-color: White;
+    position: absolute;
+    top: 132px;
+    left: 0;
+    right: 0;
+    color: grey;
+}
+
+.mobile-main-nav a {
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+}
