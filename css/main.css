@@ -1,5 +1,5 @@
 body {
-    background-color: white;  
+    background-color: #3CB9FC;  
     font-family: 'Abril Fatface', cursive;
     font-family: 'Poppins', sans-serif;
     line-height: 2em;
@@ -54,7 +54,7 @@ img {
     padding-bottom: 7px;
     background-color: none;
     text-decoration: none;
-    color: black;
+    color: white;
     transition: all ease .25s;
     border: solid;
     border-width: 1px;
