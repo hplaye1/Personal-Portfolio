@@ -29,6 +29,7 @@ a {
 img {
     width: 300px;
     height: auto;
+    align-self:flex-start
 }
 
 .nav {
