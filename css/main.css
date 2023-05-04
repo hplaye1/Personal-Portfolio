@@ -138,3 +138,27 @@ img {
     clip-path: inset(50%);
     border: 0;
 }
+
+.main-content-wrapper {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.feature-content {
+    display: flex;
+    gap: 80px;
+}
+
+.headshot-image {
+    width: 500px;
+    height: 500px;
+}
+
+h2 {
+    font-size: 4em;
+    font-weight: 100;
+    line-height: 1em;
+}
